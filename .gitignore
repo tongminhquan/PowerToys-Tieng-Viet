@@ -1,0 +1,10 @@
+# Danh sách trắng: chỉ đưa bản dịch và script lên GitHub.
+# Tuyệt đối không đưa tệp nhị phân của PowerToys (backup/, staged_pri/, *.pri).
+*
+!.gitignore
+!.gitattributes
+!README.md
+!translations.json
+!install_vi.ps1
+!restore_en.ps1
+!extract_strings.ps1
