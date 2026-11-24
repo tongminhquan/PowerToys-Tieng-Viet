@@ -1,5 +1,11 @@
 # PowerToys Tiếng Việt — Gói Việt Hóa Giao Diện Microsoft PowerToys
 
+![Bản dịch được tạo bởi AI](https://img.shields.io/badge/B%E1%BA%A3n%20d%E1%BB%8Bch-%C4%90%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20b%E1%BB%9Fi%20AI-7c3aed?style=for-the-badge)
+![Hệ điều hành](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Phiên bản](https://img.shields.io/badge/Ph%C3%A1t%20h%C3%A0nh-v1.0.0-16a34a?style=for-the-badge)
+
+> **Nhãn:** Bản dịch này được tạo bởi AI.
+
 **PowerToys Tiếng Việt** là bộ gói ngôn ngữ và công cụ **Việt hóa giao diện Microsoft PowerToys** đầy đủ dành cho **Windows 10** và **Windows 11**. Giải pháp giúp chuyển toàn bộ menu cài đặt, thanh điều hướng, cửa sổ truy cập nhanh và các tiện ích trong bộ **Microsoft PowerToys** sang **tiếng Việt** rõ ràng, tự nhiên chỉ với một lệnh duy nhất.
 
 - **Tải nhanh bản đóng gói (.zip):** [Tải về PowerToys-Tieng-Viet-v1.0.0.zip](https://github.com/tongminhquan/PowerToys-Tieng-Viet/releases/download/v1.0.0/PowerToys-Tieng-Viet-v1.0.0.zip)
